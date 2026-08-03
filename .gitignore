@@ -1,0 +1,11 @@
+.idea/
+
+# React
+expense frontend/node_modules/
+expense frontend/build/
+
+# Spring Boot
+expense tracker/target/
+
+# Environment files
+.env
