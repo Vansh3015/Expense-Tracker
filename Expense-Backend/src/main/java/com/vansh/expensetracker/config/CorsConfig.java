@@ -17,7 +17,7 @@ public class CorsConfig {
             public void addCorsMappings(CorsRegistry registry) {
 
                 registry.addMapping("/**")
-                        .allowedOrigins("http://localhost:3000")
+                        .allowedOrigins("https://expense-tracker-sand-beta-68.vercel.app")
                         .allowedMethods(
                                 "GET",
                                 "POST",
